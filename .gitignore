@@ -1,0 +1,4 @@
+*.swp
+.ccls-cache/
+left-associative
+right-associative
