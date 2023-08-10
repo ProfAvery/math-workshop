@@ -12,6 +12,7 @@ hidden = [
     "modulo",
     "fizzbuzz",
     "floating-point",
+    "rounding",
     "LICENSE",
     "README.md"
 ]
