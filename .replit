@@ -9,6 +9,7 @@ hidden = [
     "left-associative",
     "right-associative",
     "integer-division",
+    "modulo",
     "LICENSE",
     "README.md"
 ]
