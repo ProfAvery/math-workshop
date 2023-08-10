@@ -11,6 +11,7 @@ hidden = [
     "integer-division",
     "modulo",
     "fizzbuzz",
+    "floating-point",
     "LICENSE",
     "README.md"
 ]
