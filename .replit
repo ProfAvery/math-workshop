@@ -8,6 +8,7 @@ hidden = [
     "Makefile",
     "left-associative",
     "right-associative",
+    "integer-division",
     "LICENSE",
     "README.md"
 ]
