@@ -10,6 +10,7 @@ hidden = [
     "right-associative",
     "integer-division",
     "modulo",
+    "fizzbuzz",
     "LICENSE",
     "README.md"
 ]

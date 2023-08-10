@@ -1,6 +1,8 @@
 *.swp
 .ccls-cache/
+.vscode\settings.json
 left-associative
 right-associative
 integer-division
 modulo
+fizzbuzz
