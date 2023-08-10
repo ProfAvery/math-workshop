@@ -8,4 +8,4 @@ clean:
 
 .PHONY: run
 run: $(PROGS)
-	./$(shell echo $(PROGS) | tr ' ' '\n' | fzf --layout=reverse --header="Choose a program to run:")
+	./$(shell echo $(PROGS) | tr ' ' '\n' | sort | fzf --layout=reverse --header="Choose a program to run:")
