@@ -21,11 +21,13 @@ int main()
 {
     auto f = [](double x) { return x * x; };
     auto df = derivative(f);
+    auto ddf = derivative(df);
 
-    cout << "x\tf(x)\tf'(x)" << endl;
-    cout << "-\t----\t-----" << endl;
+    cout << "x\tf(x)\tf'(x)\tf''(x)" << endl;
+    cout << "-\t----\t-----\t------" << endl;
 
     for (int i = 0; i < 10; i++) {
-        cout << i << "\t" << f(i) << "\t" << round(df(i)) << endl;
+        cout << i << "\t" << f(i) << "\t"
+             << round(df(i)) << "\t" << round(ddf(i)) << endl;
     }
 }
