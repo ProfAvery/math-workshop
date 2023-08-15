@@ -10,6 +10,7 @@ floating-point
 rounding
 sequence
 factorial
+power
 derivative
 derivative-hof
 gradient-descent

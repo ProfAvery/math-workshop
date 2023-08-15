@@ -15,6 +15,7 @@ hidden = [
     "rounding",
     "sequence",
     "factorial",
+    "power",
     "derivative",
     "derivative-hof",
     "gradient-descent",
