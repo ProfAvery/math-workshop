@@ -15,6 +15,7 @@ hidden = [
     "rounding",
     "derivative",
     "derivative-hof",
+    "gradient-descent",
     "LICENSE",
     "README.md"
 ]
