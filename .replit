@@ -19,6 +19,7 @@ hidden = [
     "derivative",
     "derivative-hof",
     "gradient-descent",
+    "underflow",
     "LICENSE",
     "README.md"
 ]
